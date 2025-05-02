@@ -4,8 +4,8 @@ COPYING CODE IS AN ACADEMIC OFFENSE. THIS CODE IS ONLY FOR REFRENCE
 ---
 
 ## Introduction
-This file contains details on the design implementation of a GIS software designed for tourists visiting new cities. We implemented multiple graphical features to make our GUI more intuitive, as well as multiple app features like an AI chatbot, live weather data and 
-pathfinding abilities all geared towards tourists. See the project presentation document for more details. This project was done almost entirely in C++, with libraries like GTK for graphics, also Glade and EZgl.
+<small>This file contains details on the design implementation of a GIS software designed for tourists visiting new cities. We implemented multiple graphical features to make our GUI more intuitive, as well as multiple app features like an AI chatbot, live weather data and 
+pathfinding abilities all geared towards tourists. See the project presentation document for more details. This project was done almost entirely in C++, with libraries like GTK for graphics, also Glade and EZgl.</small>
 ---
 
 ### User Interface
