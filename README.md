@@ -47,13 +47,7 @@ We implemented a number of features designed to make travelling easier for touri
 
 ---
 
-## Workflow
-Here's how the typical user or system workflow looks:
-
-1. Step one
-2. Step two
-3. Step three
-
-![Workflow](path/to/workflow-image.png)
+## Implementation and Algorithms
+We used EZGL and GTK for buttons and callbacks as well as windows and layout. For pathfinding, we used A star with nodes being intersections and edges being street segments, with the cost being travel time and heuristic being distance. We loaded data from OSM using data structures like linked lists, maps and vectors.
 
 ---
