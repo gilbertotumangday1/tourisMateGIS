@@ -27,13 +27,24 @@ We implemented a number of features designed to make travelling easier for touri
 - Live weather data - we scraped weather data based on latitude and longitude through LibCurl connected to the LiveWeather API, and used boost property trees to parse the json file
 - TourisMate Chatbot - we connected LibCurl to the Gemini API to give users a "digital tour guide" where they could ask get any info they need about their city
 
-![map select](readmeimages/mapselect.PNG)
-![intersection find](readmeimages/intersectionfind.PNG)
-![map view](readmeimages/mapview.PNG)
-![location icons](readmeimages/locationicons.PNG)
-![directions](readmeimages/directions.PNG)
-![weather](readmeimages/weather.PNG)
-![chatbot](readmeimages/chatbot.PNG)
+<table>
+  <tr>
+    <td><img src="readmeimages/mapselect.PNG" alt="map select" width="200"/></td>
+    <td><img src="readmeimages/intersectionfind.PNG" alt="intersection find" width="200"/></td>
+    <td><img src="readmeimages/mapview.PNG" alt="map view" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="readmeimages/locationicons.PNG" alt="location icons" width="200"/></td>
+    <td><img src="readmeimages/directions.PNG" alt="directions" width="200"/></td>
+    <td><img src="readmeimages/weather.PNG" alt="weather" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="readmeimages/chatbot.PNG" alt="chatbot" width="200"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ---
 
 ## Workflow
