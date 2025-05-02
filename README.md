@@ -27,8 +27,13 @@ We implemented a number of features designed to make travelling easier for touri
 - Live weather data - we scraped weather data based on latitude and longitude through LibCurl connected to the LiveWeather API, and used boost property trees to parse the json file
 - TourisMate Chatbot - we connected LibCurl to the Gemini API to give users a "digital tour guide" where they could ask get any info they need about their city
 
-![Features](path/to/features-image.png)
-
+![map select](readmeimages/mapselect.PNG)
+![intersection find](readmeimages/intersectionfind.PNG)
+![map view](readmeimages/mapview.PNG)
+![location icons](readmeimages/locationicons.PNG)
+![directions](readmeimages/directions.PNG)
+![weather](readmeimages/weather.PNG)
+![chatbot](readmeimages/chatbot.PNG)
 ---
 
 ## Workflow
