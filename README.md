@@ -9,7 +9,9 @@ his file contains details on the design implementation of a GIS software designe
 ## User Interface
 Our User interface was designed based on state-of-art research comparing interfaces like Strava and HereWeGo maps. It implements a "Swiss army knife" dynamic layout, allowing users to expand and shrink windows based on feature usage. Styling was done with CSS to produce a cleaner layout, with a high contrast shade choice to ensure users can understand what they are looking at. The interface allows users to turn on and off Dark Mode for different map views.
 
-![User Interface](path/to/user-interface-image.png)
+![light mode with expanded UI](readmeimages/lightModeUI.PNG)
+![dark mode with compressed UI](readmeimages/darkModeUI.PNG)
+
 
 ---
 
