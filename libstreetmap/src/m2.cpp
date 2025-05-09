@@ -1834,7 +1834,7 @@ void updateWeatherCall(ezgl::point2d center){
 void displayChatbotQueryInfo(GtkWidget */*widget*/, ezgl::application *application){
    GtkEntry *chatTextField = GTK_ENTRY(application->get_object("chatTextFieldEntry"));
    GtkTextView *chatTextResponse = GTK_TEXT_VIEW(application->get_object("chatTextResponse"));
-   std::string apiKey = "AIzaSyCBEopITGhvzWUh4wqtY_aG0VmXy585Oqw"; // keep private 
+   std::string apiKey = "."; // keep private 
    std::string url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + apiKey;
    
    // Preparing query to access Gemini API
